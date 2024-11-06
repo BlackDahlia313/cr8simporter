@@ -1,0 +1,966 @@
+[
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "America Eats Its Young",
+    "tracks": [
+      {
+        "title": "We Hurt Too",
+        "bpm": "118",
+        "length": "3:47"
+      },
+      {
+        "title": "I Call My Baby Pussycat",
+        "bpm": "152",
+        "length": "5:09"
+      },
+      {
+        "title": "Miss Lucifer's Love",
+        "bpm": "159",
+        "length": "5:58"
+      },
+      {
+        "title": "You Hit The Nail On The Head",
+        "bpm": "122",
+        "length": "7:10"
+      },
+      {
+        "title": "Everybody's Going To Make It Out This Time",
+        "bpm": "74",
+        "length": "5:54"
+      },
+      {
+        "title": "Biological Speculation",
+        "bpm": "74",
+        "length": "3:05"
+      },
+      {
+        "title": "Wake Up",
+        "bpm": "109",
+        "length": "6:28"
+      },
+      {
+        "title": "Balance",
+        "bpm": "123",
+        "length": "5:31"
+      },
+      {
+        "title": "Philmore",
+        "bpm": "132",
+        "length": "2:32"
+      },
+      {
+        "title": "Joyful Process, A",
+        "bpm": "96",
+        "length": "6:12"
+      },
+      {
+        "title": "America Eats Its Young",
+        "bpm": "110",
+        "length": "5:50"
+      },
+      {
+        "title": "Loose Booty",
+        "bpm": "82",
+        "length": "4:52"
+      },
+      {
+        "title": "That Was My Girl",
+        "bpm": "111",
+        "length": "3:43"
+      },
+      {
+        "title": "If You Don't Like The Effects, Don't Produce The Cause",
+        "bpm": "133",
+        "length": "3:42"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Connections and Disconnections",
+    "tracks": [
+      {
+        "title": "Who's a Funkadelic?",
+        "bpm": "126",
+        "length": "5:47"
+      },
+      {
+        "title": "Come Back",
+        "bpm": "116",
+        "length": "4:32"
+      },
+      {
+        "title": "You'll Like it Too",
+        "bpm": "104",
+        "length": "4:29"
+      },
+      {
+        "title": "Phunklords",
+        "bpm": "113",
+        "length": "5:35"
+      },
+      {
+        "title": "Call the Doctor",
+        "bpm": "89",
+        "length": "5:14"
+      },
+      {
+        "title": "Connections and Disconnections",
+        "bpm": "111",
+        "length": "5:02"
+      },
+      {
+        "title": "The Witch",
+        "bpm": "104",
+        "length": "9:31"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Cosmic Slop",
+    "tracks": [
+      {
+        "title": "No Compute",
+        "bpm": "127",
+        "length": "3:05"
+      },
+      {
+        "title": "Let's Make It Last",
+        "bpm": "93",
+        "length": "4:12"
+      },
+      {
+        "title": "March To The Witch's Castle",
+        "bpm": "137",
+        "length": "6:01"
+      },
+      {
+        "title": "Trash A-Go-Go",
+        "bpm": "72",
+        "length": "2:28"
+      },
+      {
+        "title": "This Broken Heart",
+        "bpm": "119",
+        "length": "3:40"
+      },
+      {
+        "title": "Cosmic Slop",
+        "bpm": "100",
+        "length": "5:20"
+      },
+      {
+        "title": "Can't Stand The Strain",
+        "bpm": "91",
+        "length": "3:27"
+      },
+      {
+        "title": "Nappy Dugout",
+        "bpm": "80",
+        "length": "4:35"
+      },
+      {
+        "title": "You Can't Miss What You Can't Measure",
+        "bpm": "95",
+        "length": "3:06"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Finest",
+    "tracks": [
+      {
+        "title": "Funky Dollar Bill",
+        "bpm": "86",
+        "length": "3:08"
+      },
+      {
+        "title": "You Can't Miss What You Can't Measure",
+        "bpm": "95",
+        "length": "3:06"
+      },
+      {
+        "title": "Joyful Process, A",
+        "bpm": "97",
+        "length": "2:53"
+      },
+      {
+        "title": "Maggot Brain (Live)",
+        "bpm": "119",
+        "length": "3:59"
+      },
+      {
+        "title": "Let's Take It To The Stage",
+        "bpm": "84",
+        "length": "3:37"
+      },
+      {
+        "title": "Get Off Your Ass And Jam",
+        "bpm": "117",
+        "length": "2:27"
+      },
+      {
+        "title": "Loose Booty",
+        "bpm": "82",
+        "length": "4:50"
+      },
+      {
+        "title": "I Wanna Know If It's Good To You",
+        "bpm": "81",
+        "length": "2:53"
+      },
+      {
+        "title": "Standing On The Verge Of Getting It On",
+        "bpm": "116",
+        "length": "4:43"
+      },
+      {
+        "title": "Hit It And Quit It",
+        "bpm": "148",
+        "length": "3:52"
+      },
+      {
+        "title": "Red Hot Mama",
+        "bpm": "100",
+        "length": "3:24"
+      },
+      {
+        "title": "I Bet You",
+        "bpm": "91",
+        "length": "6:14"
+      },
+      {
+        "title": "I Got A Thing, You Got A Thing, Everybody Got A Thing",
+        "bpm": "76",
+        "length": "3:57"
+      },
+      {
+        "title": "Cosmic Slop",
+        "bpm": "100",
+        "length": "5:20"
+      },
+      {
+        "title": "You And Your Folks, Me And My Folks",
+        "bpm": "75",
+        "length": "3:39"
+      },
+      {
+        "title": "Undisco Kidd",
+        "bpm": "95",
+        "length": "6:37"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Free Your Mind...And Your Ass Will Follow",
+    "tracks": [
+      {
+        "title": "Free Your Mind And Your Ass Will Follow",
+        "bpm": "86",
+        "length": "10:02"
+      },
+      {
+        "title": "Some More",
+        "bpm": "107",
+        "length": "2:57"
+      },
+      {
+        "title": "Eulogy And Light",
+        "bpm": "76",
+        "length": "3:29"
+      },
+      {
+        "title": "Friday Night, August 14Th",
+        "bpm": "84",
+        "length": "5:20"
+      },
+      {
+        "title": "Funky Dollar Bill",
+        "bpm": "86",
+        "length": "3:15"
+      },
+      {
+        "title": "I Wanna Know If It's Good To You",
+        "bpm": "82",
+        "length": "5:56"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Funk and Soul Hits",
+    "tracks": [
+      {
+        "title": "As Good As I Can Feel",
+        "bpm": "91",
+        "length": "2:36"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Funkadelic",
+    "tracks": [
+      {
+        "title": "I Got A Thing, You Got A Thing, Everybody Got A Thing",
+        "bpm": "77",
+        "length": "3:51"
+      },
+      {
+        "title": "I Bet You",
+        "bpm": "91",
+        "length": "6:11"
+      },
+      {
+        "title": "Good Old Music",
+        "bpm": "78",
+        "length": "8:05"
+      },
+      {
+        "title": "Qualify And Satisfy",
+        "bpm": "91",
+        "length": "6:17"
+      },
+      {
+        "title": "Mommy, What's A Funkadelic",
+        "bpm": "73",
+        "length": "9:05"
+      },
+      {
+        "title": "Music For My Mother",
+        "bpm": "91",
+        "length": "5:37"
+      },
+      {
+        "title": "What Is Soul",
+        "bpm": "150",
+        "length": "7:35"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Funkadelic Reworked By Detroiters - (Disc 1)",
+    "tracks": [
+      {
+        "title": "Get Off Your Ass And Jam (Marcellus Pittman Remix)",
+        "bpm": "120",
+        "length": "6:46"
+      },
+      {
+        "title": "Sexy Ways (Recloose Disco Flip)",
+        "bpm": "110",
+        "length": "5:53"
+      },
+      {
+        "title": "Cosmic Slop (Moodymann Mix)",
+        "bpm": "101",
+        "length": "9:31"
+      },
+      {
+        "title": "You Can't Miss What You Can't Measure (Alton Miller Mix)",
+        "bpm": "98",
+        "length": "5:21"
+      },
+      {
+        "title": "Music For My Mother (Andres Wo Ahh Ay Vocal Mix)",
+        "bpm": "92",
+        "length": "5:24"
+      },
+      {
+        "title": "Take Your Dead Ass Home (The Fantasy Version)",
+        "bpm": "87",
+        "length": "7:52"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Funkadelic Reworked By Detroiters - (Disc 2)",
+    "tracks": [
+      {
+        "title": "Music 4 My Mother (Underground Resistance Mix)",
+        "bpm": "102",
+        "length": "5:41"
+      },
+      {
+        "title": "You And Your Folks (Claude Young Jr Dub)",
+        "bpm": "77",
+        "length": "5:58"
+      },
+      {
+        "title": "Maggot Brain (Bmg Dub)",
+        "bpm": "68",
+        "length": "10:13"
+      },
+      {
+        "title": "You And Your Folks (Claude Young Jr Club Mix)",
+        "bpm": "126",
+        "length": "7:28"
+      },
+      {
+        "title": "Let's Take It To The Stage (Amp Fiddler Laughin @ Ya Mix)",
+        "bpm": "106",
+        "length": "6:19"
+      },
+      {
+        "title": "Be My Beach (Mophono & Tom Thump)",
+        "bpm": "95",
+        "length": "6:18"
+      },
+      {
+        "title": "Looking Back At You (Ectomorph Stripped And Dubbed)",
+        "bpm": "147",
+        "length": "6:18"
+      },
+      {
+        "title": "Standing On The Verge (Anthony Shake Shakir & T Dancer Remix)",
+        "bpm": "117",
+        "length": "4:53"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Hardcore Jollies",
+    "tracks": [
+      {
+        "title": "Adolescent Funk",
+        "bpm": "147",
+        "length": "4:17"
+      },
+      {
+        "title": "Smokey",
+        "bpm": "147",
+        "length": "6:06"
+      },
+      {
+        "title": "You Scared The Lovin' Outta Me",
+        "bpm": "134",
+        "length": "6:23"
+      },
+      {
+        "title": "If You Got Funk, You Got Style",
+        "bpm": "110",
+        "length": "3:07"
+      },
+      {
+        "title": "Hardcore Jollies",
+        "bpm": "128",
+        "length": "5:02"
+      },
+      {
+        "title": "Cosmic Slop (Live Version)",
+        "bpm": "113",
+        "length": "6:27"
+      },
+      {
+        "title": "Soul Mate",
+        "bpm": "90",
+        "length": "2:47"
+      },
+      {
+        "title": "Comin' Round The Mountain",
+        "bpm": "120",
+        "length": "5:50"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Let's Take It To The Stage",
+    "tracks": [
+      {
+        "title": "Baby I Owe You Something Good",
+        "bpm": "126",
+        "length": "5:49"
+      },
+      {
+        "title": "Let's Take It To The Stage",
+        "bpm": "84",
+        "length": "3:37"
+      },
+      {
+        "title": "Be My Beach",
+        "bpm": "90",
+        "length": "2:39"
+      },
+      {
+        "title": "Good To Your Earhole",
+        "bpm": "93",
+        "length": "4:35"
+      },
+      {
+        "title": "Stuffs And Things",
+        "bpm": "85",
+        "length": "2:14"
+      },
+      {
+        "title": "Get Off Your Ass And Jam",
+        "bpm": "117",
+        "length": "2:27"
+      },
+      {
+        "title": "Better By The Pound",
+        "bpm": "114",
+        "length": "2:44"
+      },
+      {
+        "title": "Atmosphere",
+        "bpm": "90",
+        "length": "7:14"
+      },
+      {
+        "title": "Get Off Your Ass And Jam (Clean Mix)",
+        "bpm": "119",
+        "length": "2:56"
+      },
+      {
+        "title": "No Head, No Backstage Pass",
+        "bpm": "100",
+        "length": "2:39"
+      },
+      {
+        "title": "Song Is Familiar, The",
+        "bpm": "83",
+        "length": "3:09"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Maggot Brain",
+    "tracks": [
+      {
+        "title": "You And Your Folks, Me And My Folks",
+        "bpm": "154",
+        "length": "3:36"
+      },
+      {
+        "title": "Super Stupid",
+        "bpm": "101",
+        "length": "3:57"
+      },
+      {
+        "title": "Can You Get To That",
+        "bpm": "141",
+        "length": "2:49"
+      },
+      {
+        "title": "Maggot Brain (alternate mix, recorded in 1971)",
+        "bpm": "68",
+        "length": "9:38"
+      },
+      {
+        "title": "Maggot Brain",
+        "bpm": "69",
+        "length": "10:19"
+      },
+      {
+        "title": "Back In Our Minds",
+        "bpm": "136",
+        "length": "2:37"
+      },
+      {
+        "title": "Hit It And Quit It",
+        "bpm": "148",
+        "length": "3:49"
+      },
+      {
+        "title": "Wars Of Armageddon",
+        "bpm": "127",
+        "length": "9:43"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Music For Your Mother: Funkadelic 45s",
+    "tracks": [
+      {
+        "title": "Vital Juices",
+        "bpm": "103",
+        "length": "3:13"
+      },
+      {
+        "title": "Baby I Owe You Something Good (Gypsy Polka Soul)",
+        "bpm": "113",
+        "length": "3:52"
+      },
+      {
+        "title": "Whole Lot Of Bs, A",
+        "bpm": "109",
+        "length": "2:14"
+      },
+      {
+        "title": "Fish, Chips And Sweat",
+        "bpm": "104",
+        "length": "3:02"
+      },
+      {
+        "title": "I Miss My Baby",
+        "bpm": "73",
+        "length": "4:19"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "One Nation Under A Groove",
+    "tracks": [
+      {
+        "title": "Into You",
+        "bpm": "136",
+        "length": "5:41"
+      },
+      {
+        "title": "Cholly (Funk Get Ready To Roll)",
+        "bpm": "102",
+        "length": "4:27"
+      },
+      {
+        "title": "Who Says A Funk Band Can't Play Rock",
+        "bpm": "105",
+        "length": "6:18"
+      },
+      {
+        "title": "One Nation Under A Groove",
+        "bpm": "122",
+        "length": "7:28"
+      },
+      {
+        "title": "Promentalshitbackwashpsychosis Enema Squad (The Doo Doo Chasers)",
+        "bpm": "132",
+        "length": "10:45"
+      },
+      {
+        "title": "Maggot Brain (Live)",
+        "bpm": "72",
+        "length": "8:30"
+      },
+      {
+        "title": "Lunchmeataphobia (Think, It Aint Illegal Yet)",
+        "bpm": "114",
+        "length": "4:12"
+      },
+      {
+        "title": "Groovallegiance",
+        "bpm": "107",
+        "length": "7:00"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "One Nation Under A Groove (Single)",
+    "tracks": [
+      {
+        "title": "One Nation Under A Groove (Extended Dance Mix)",
+        "bpm": "122",
+        "length": "11:17"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Standing On The Verge Of Getting It On",
+    "tracks": [
+      {
+        "title": "Standing On The Verge Of Getting It On",
+        "bpm": "115",
+        "length": "5:10"
+      },
+      {
+        "title": "Jimmy's Got A Little Bit Of Bitch In Him",
+        "bpm": "74",
+        "length": "2:33"
+      },
+      {
+        "title": "Good Thoughts, Bad Thoughts",
+        "bpm": "110",
+        "length": "12:17"
+      },
+      {
+        "title": "Alice In My Fantasies",
+        "bpm": "99",
+        "length": "2:30"
+      },
+      {
+        "title": "Red Hot Mama",
+        "bpm": "100",
+        "length": "4:56"
+      },
+      {
+        "title": "Sexy Ways",
+        "bpm": "108",
+        "length": "3:08"
+      },
+      {
+        "title": "I'll Stay",
+        "bpm": "141",
+        "length": "7:18"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Tales Of Kidd Funkadelic",
+    "tracks": [
+      {
+        "title": "Let's Take It To The People",
+        "bpm": "111",
+        "length": "1:49"
+      },
+      {
+        "title": "I'm Never Gonna Tell It",
+        "bpm": "164",
+        "length": "3:39"
+      },
+      {
+        "title": "Take Your Dead Ass Home (Say Som'n Nasty)",
+        "bpm": "87",
+        "length": "7:18"
+      },
+      {
+        "title": "Butt-To-Buttresuscitation",
+        "bpm": "110",
+        "length": "3:55"
+      },
+      {
+        "title": "Tales Of Kidd Funkadelic (Opusdelite Years)",
+        "bpm": "101",
+        "length": "12:52"
+      },
+      {
+        "title": "Undisco Kidd",
+        "bpm": "95",
+        "length": "6:37"
+      },
+      {
+        "title": "How Do Yeaw View You",
+        "bpm": "168",
+        "length": "3:43"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "The Electric Spanking Of War Babies",
+    "tracks": [
+      {
+        "title": "Brettino's Bounce",
+        "bpm": "142",
+        "length": "3:40"
+      },
+      {
+        "title": "Funk Gets Stronger (Part 1)",
+        "bpm": "129",
+        "length": "6:40"
+      },
+      {
+        "title": "Shockwaves",
+        "bpm": "93",
+        "length": "5:08"
+      },
+      {
+        "title": "She Loves You",
+        "bpm": "134",
+        "length": "0:16"
+      },
+      {
+        "title": "Oh, I",
+        "bpm": "110",
+        "length": "4:53"
+      },
+      {
+        "title": "Icka Prick",
+        "bpm": "82",
+        "length": "4:09"
+      },
+      {
+        "title": "Electric Spanking Of War Babies, The",
+        "bpm": "122",
+        "length": "8:39"
+      },
+      {
+        "title": "Electro-Cuties",
+        "bpm": "111",
+        "length": "6:12"
+      },
+      {
+        "title": "Funk Gets Stronger (Killer Millimeter Longer Version)",
+        "bpm": "134",
+        "length": "4:26"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Toys",
+    "tracks": [
+      {
+        "title": "Talk About Jesus",
+        "bpm": "97",
+        "length": "5:51"
+      },
+      {
+        "title": "Magnififunk",
+        "bpm": "88",
+        "length": "6:07"
+      },
+      {
+        "title": "Goose That Laid The Golden Egg, The",
+        "bpm": "166",
+        "length": "5:39"
+      },
+      {
+        "title": "Heart Trouble Aka You Can't Miss What You Can't Measure",
+        "bpm": "121",
+        "length": "4:34"
+      },
+      {
+        "title": "Vampy Funky Bernie (3Rd Tune Olympic)",
+        "bpm": "89",
+        "length": "6:36"
+      },
+      {
+        "title": "Slide On It (2nd Olymic Tune)",
+        "bpm": "83",
+        "length": "10:48"
+      },
+      {
+        "title": "2 Dollars & 2 Dimes",
+        "bpm": "105",
+        "length": "1:58"
+      },
+      {
+        "title": "Stink Finger",
+        "bpm": "157",
+        "length": "3:19"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Uncle Jam Wants You",
+    "tracks": [
+      {
+        "title": "Field Maneuvers",
+        "bpm": "135",
+        "length": "2:26"
+      },
+      {
+        "title": "(Not Just) Knee Deep",
+        "bpm": "115",
+        "length": "15:21"
+      },
+      {
+        "title": "Freak Of The Week",
+        "bpm": "95",
+        "length": "5:33"
+      },
+      {
+        "title": "Foot Soldiers (Star-Spangled Funky)",
+        "bpm": "127",
+        "length": "3:33"
+      },
+      {
+        "title": "Holly Wants To Go To California",
+        "bpm": "90",
+        "length": "4:25"
+      },
+      {
+        "title": "Uncle Jam",
+        "bpm": "108",
+        "length": "10:26"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Westbound Detroit Northern Soul",
+    "tracks": [
+      {
+        "title": "Can't Shake It Loose",
+        "bpm": "128",
+        "length": "1:56"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Westbound Funk",
+    "tracks": [
+      {
+        "title": "I'll Bet You",
+        "bpm": "91",
+        "length": "3:59"
+      },
+      {
+        "title": "You Can't Miss What You Can't Measure",
+        "bpm": "95",
+        "length": "3:06"
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "library": "westbound",
+    "artist": "63a05e24-0a82-4699-b28e-525fc7a50b2b",
+    "title": "Westbound Funk-Gettin' It Off",
+    "tracks": [
+      {
+        "title": "Loose Booty",
+        "bpm": "84",
+        "length": "3:11"
+      }
+    ]
+  }
+]
