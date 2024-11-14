@@ -23,35 +23,53 @@ const { parse } = require('csv-parse/sync');
       return map;
     }, {});
 
+    // Helper function to process comma-separated strings into arrays
+    const processArrayField = (field) => {
+      if (!field || field === 'None' || field === 'notes' || field === 'keywords, keyword') {
+        return [];
+      }
+      return field.split(',').map(item => item.trim()).filter(item => item);
+    };
+
+    // Helper function to format duration
+    const formatDuration = (duration) => {
+      if (!duration) return null;
+      // Remove decimal portion and ensure proper format
+      return duration.replace(/^0?(\d+):(\d+)\.\d+$/, '$1:$2');
+    };
+
     // Group tracks by album (CDTitle)
     const albums = {};
     importData.forEach(entry => {
       const artistId = artistMap[entry.Artist] || null;
-      const formattedDuration = entry.Duration ? entry.Duration.replace(/^0?(\d+):(\d+)\.\d+$/, '$1:$2') : null;
+      const formattedDuration = formatDuration(entry.Duration);
 
       if (!albums[entry.CDTitle]) {
         albums[entry.CDTitle] = {
           status: 'draft',
-          library: 'westbound',
+          library: entry.Library.toLowerCase(),
           artist: artistId,
           title: entry.CDTitle,
-          year_released: entry.year_released,
+          year_released: entry.year_released || null,
           tracks: []
         };
       }
 
       albums[entry.CDTitle].tracks.push({
         title: entry.TrackTitle,
-        bpm: entry.BPM,
-        length: formattedDuration
+        year: null,
+        length: formattedDuration,
+        scotts_picks: processArrayField(entry.Notes),
+        gregs_picks: processArrayField(entry.CDDescription),
+        master: entry.Tape || "NULL",
+        description: entry.Description || "",
+        bpm: parseInt(entry.BPM) || null,
+        tags: processArrayField(entry.Keywords)
       });
     });
 
     // Convert the albums object to an array
     const transformedData = Object.values(albums);
-
-    console.log('Parsed Import Data:', importData);
-    console.log('Parsed Artist Data:', artistData);
 
     // Write the transformed data to the output JSON file
     await fs.writeFile(outputFilePath, JSON.stringify(transformedData, null, 2), 'utf-8');
